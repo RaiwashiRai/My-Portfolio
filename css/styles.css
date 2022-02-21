@@ -1,0 +1,27 @@
+body
+{
+    font-style:italic;
+    background-color: #1D8EF2;
+}
+
+hr
+{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: skyblue;
+    border-width: 5px;
+}
+
+h1
+{
+    color: navy;
+}
+h2
+{
+    color: navy;
+}
+h3
+{
+    color: navy;
+}
